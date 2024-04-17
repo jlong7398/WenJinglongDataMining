@@ -14,5 +14,5 @@
 * Pytorch和Tensorflow的基本使用；
 
 
-[本文链接](https://github.com/jlong7398/WenJinglongDataMining)
+https://github.com/jlong7398/WenJinglongDataMining
 
