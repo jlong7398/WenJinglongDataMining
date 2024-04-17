@@ -8,3 +8,5 @@
 设置仓库名为WenJinglongDataMining，属性public，增加一个README文件，创建仓库。
 ### 上传PPT
 点击Add file，选择upload files上传文件，点击commit changes保存修改。
+
+[仓库名称](./)
