@@ -9,4 +9,5 @@
 ### 上传PPT
 点击Add file，选择upload files上传文件，点击commit changes保存修改。
 
-[仓库名称](./)
+[本文链接](https://github.com/jlong7398/WenJinglongDataMining)
+
