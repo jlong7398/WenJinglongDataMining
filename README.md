@@ -10,8 +10,8 @@
 点击Add file，选择upload files上传文件，点击commit changes保存修改。
 
 ## 想要学习的技能
-Linux下Pytorch和Tensorflow框架的安装配置；
-Pytorch和Tensorflow的基本使用；
+* Linux下Pytorch和Tensorflow框架的安装配置；
+* Pytorch和Tensorflow的基本使用；
 
 
 [本文链接](https://github.com/jlong7398/WenJinglongDataMining)
