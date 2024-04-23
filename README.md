@@ -10,9 +10,9 @@
 点击Add file，选择upload files上传文件，点击commit changes保存修改。
 
 ## 想要学习的技能
-* Linux下Pytorch和Tensorflow框架的安装配置；
-* Pytorch和Tensorflow的基本使用；
+* Linux下Pytorch和Tensorflow框架的配置使用；
+* 根据基于S2S神经网络的PPO算法源代码(Tensorflow)，使用Pytorch重新复现，完成仿真实验。
 
-
+---
 https://github.com/jlong7398/WenJinglongDataMining
 
